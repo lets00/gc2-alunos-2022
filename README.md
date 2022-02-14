@@ -22,5 +22,3 @@ Número de disciplinas matriculados no semestre: 2
 Linguagens de programação favoritas (máx 2): Javascript, Python
 
 -----------------------------------------
-
-asdf
