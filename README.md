@@ -12,8 +12,14 @@ Usar o **github flow** para gerenciar os fluxos de trabalho
 ## Alunos
 
 Nome Completo: Exemplo
-Ano de ingresso: 2019
-No de matrícula: 00000000
+
+Ano de ingresso: 2019 
+
+No de matrícula: 00000000 
+
 Número de disciplinas matriculados no semestre: 2
+
 Linguagens de programação favoritas (máx 2): Javascript, Python
+
+-----------------------------------------
 
