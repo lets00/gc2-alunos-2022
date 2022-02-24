@@ -22,3 +22,15 @@ Número de disciplinas matriculados no semestre: 2
 Linguagens de programação favoritas (máx 2): Javascript, Python
 
 -----------------------------------------
+
+Nome Completo: Cloves José Duarte Silva
+
+Ano de ingresso: 2019
+
+Nº da matrícula: 20192adsgr0109
+
+Número de disciplinas matriculados no semestre: 6
+
+Linguagens de programação favoritas (máx 2): Javascript,
+
+--------------------------------------------
