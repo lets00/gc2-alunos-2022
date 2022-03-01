@@ -34,3 +34,15 @@ Número de disciplinas matriculados no semestre: 6
 Linguagens de programação favoritas (máx 2): Javascript,
 
 --------------------------------------------
+
+Nome Completo: Eva Victória da Silva Souza
+
+Ano de ingresso: 2019
+
+Nº da matrícula: 20192ADSGR0141
+
+Número de disciplinas matriculados no semestre: 6
+
+Linguagens de programação favoritas (máx 2): Javascript, Java
+
+--------------------------------------------
