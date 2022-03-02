@@ -46,3 +46,15 @@ Número de disciplinas matriculados no semestre: 6
 Linguagens de programação favoritas (máx 2): Javascript, Java
 
 --------------------------------------------
+
+Nome Completo: José Wanderley Pereira da Silva
+
+Ano de ingresso: 2019
+
+Nº da matrícula: 20192adsgr0184
+
+Número de disciplinas matriculados no semestre: 6
+
+Linguagens de programação favoritas (máx 2): Python, Javascript
+
+--------------------------------------------
