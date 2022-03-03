@@ -58,3 +58,15 @@ Número de disciplinas matriculados no semestre: 6
 Linguagens de programação favoritas (máx 2): Python, Javascript
 
 --------------------------------------------
+
+Nome Completo: Alexsander Luciano Araújo
+
+Ano de ingresso: 2019
+
+Nº da matrícula: 20192adsgrgr0052
+
+Número de disciplinas matriculados no semestre: 5
+
+Linguagens de programação favoritas (máx 2): Python, Javascript
+
+--------------------------------------------
