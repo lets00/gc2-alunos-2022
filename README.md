@@ -70,3 +70,15 @@ Número de disciplinas matriculados no semestre: 5
 Linguagens de programação favoritas (máx 2): Python, Javascript
 
 --------------------------------------------
+
+Nome Completo: João Pedro Monteiro Pereira
+
+Ano de ingresso: 2019
+
+Nº da matrícula: 20192ADSGR0176
+
+Número de disciplinas matriculados no semestre: 6
+
+Linguagens de programação favoritas (máx 2): Python, Javascript
+
+--------------------------------------------
